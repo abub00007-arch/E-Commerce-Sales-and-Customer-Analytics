@@ -68,6 +68,20 @@ The analysis focuses on understanding:
 16. Does the most valuable customer segment also generate the highest total profit?
 
 ---
+## 📊 Dataset
+
+The project uses an e-commerce transactional dataset containing **9,994 transaction records** with information on customers, products, sales, profit, discounts, shipping, and geographic attributes.
+
+### Dataset Files
+
+- **Raw dataset:** `E-commerce_data.csv`
+- **Processed dataset:** `ecommerce_feature_engineered.csv`
+
+The raw dataset was inspected and prepared through a dedicated preprocessing stage before being used for exploratory analysis
+
+
+
+
 
 # 🧹 Data Preprocessing
 
